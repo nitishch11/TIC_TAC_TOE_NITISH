@@ -46,10 +46,10 @@ class Tic_Tac_Toe extends JFrame implements ActionListener {
 
 		state = true;
 		type = true;
-		ic1 = new ImageIcon("D:/NITISH CHOUDHARY/New folder/TIC_TAC_TOE_NITISH/src/ic1.jpg");
-		ic2 = new ImageIcon("D:/NITISH CHOUDHARY/New folder/TIC_TAC_TOE_NITISH/src/ic2.jpg");
-		ic11 = new ImageIcon("D:/NITISH CHOUDHARY/New folder/TIC_TAC_TOE_NITISH/src/ic11.jpg");
-		ic22 = new ImageIcon("D:/NITISH CHOUDHARY/New folder/TIC_TAC_TOE_NITISH/src/ic22.jpg");
+		ic1 = new ImageIcon("ic1.jpg");
+		ic2 = new ImageIcon("ic2.jpg");
+		ic11 = new ImageIcon("ic11.jpg");
+		ic22 = new ImageIcon("ic22.jpg");
 
 		setLayout(null);
 		setSize(330, 450);
